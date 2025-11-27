@@ -64,7 +64,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whybhav360&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whybhav360&theme=tokyonight&utcOffset=5.5" />
 </div>
 
 
