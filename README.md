@@ -76,10 +76,9 @@
 
 ---
 
-## ⚡ Random Dev Quote
+## ⚡ A Dev Meme i love and relate to
 
-> _“First, solve the problem. Then, write the code.”_  
-> — John Johnson
+https://github.com/user-attachments/assets/e68d9d58-b9bb-42c8-8862-b23fb3ee7425
 
 ---
 
