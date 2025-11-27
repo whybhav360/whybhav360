@@ -60,12 +60,10 @@
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaibhav360/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vaibhavmadaan360@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  
+![linkedin](https://github.com/user-attachments/assets/bd8377b9-802a-42a1-aceb-6c41eebd4aab)
+![gmail](https://github.com/user-attachments/assets/dba31ce8-d8fd-4a75-b63d-8ec39fee01c2)
+
 </p>
 
 ---
