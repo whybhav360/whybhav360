@@ -63,10 +63,8 @@
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhav360&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav360&layout=compact&theme=radical" />
-</div>
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav360&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
