@@ -29,13 +29,15 @@
 ## 🛠 Tech Stack & Tools
 
 ### 📱 Mobile App Development
-  ![Kotlin Android](https://github.com/user-attachments/assets/24e378cf-e209-40fc-b15f-404ee0164ec3) ![Java logo](https://github.com/user-attachments/assets/3797e31a-0cb3-4ab8-9b25-3ef34cd846a5)
+  ![Kotlin Android](https://github.com/user-attachments/assets/24e378cf-e209-40fc-b15f-404ee0164ec3) 
+  ![Java logo](https://github.com/user-attachments/assets/636f6019-eb57-46c9-9db8-d65fbe88d6a6)
 
 
 
 ### 🤖 AI / ML & Backend
 ![Python logo](https://github.com/user-attachments/assets/ddc09501-48be-445f-9560-3e08850487dc)
-![Logo Firebase](https://github.com/user-attachments/assets/6f3f6225-4d67-418c-881e-f411af949029)
+![Logo Firebase](https://github.com/user-attachments/assets/07546248-90a3-472c-b633-e36dc766c143)
+
 
 
 
