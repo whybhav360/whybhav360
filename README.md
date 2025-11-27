@@ -1,9 +1,6 @@
 <!-- Hero Section -->
 <div align="center">
   
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+folks%2C+I'm+Vaibhav+Madaan+👋;Android+%26+AI+App+Developer+📱🧠;Always+learning%2C+always+building+🚀" />
-  
   <!-- Coding GIF -->
   <br/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif" />
@@ -67,8 +64,10 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vaibhav360&theme=github-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhav360&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav360&layout=compact&theme=radical" />
 </div>
+
 
 
 ## 🌐 Let’s Connect
