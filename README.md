@@ -35,21 +35,15 @@
 
 ### 🤖 AI / ML & Backend
 ![Python logo](https://github.com/user-attachments/assets/ddc09501-48be-445f-9560-3e08850487dc)
+![Logo Fiebase](https://github.com/user-attachments/assets/b2febeed-fe77-4f86-a7b2-30029dd300b5)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🗄 Databases
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Room](https://img.shields.io/badge/Room%20DB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🧰 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS code logo animation](https://github.com/user-attachments/assets/ad134066-da72-4975-9f98-f6d7b3010ae8)
+![Android](https://github.com/user-attachments/assets/92f227bc-d825-437a-b14e-841b97a7493c)
+![GitHub icon](https://github.com/user-attachments/assets/32ee7719-87ba-4ddd-83fe-d05092f7b91a)
+![Git Logo](https://github.com/user-attachments/assets/6782341d-6031-4384-9bed-9a0c41a84084)
+
 
 ---
 
