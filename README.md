@@ -61,8 +61,8 @@
 
 <p align="center">
   
-![linkedin](https://github.com/user-attachments/assets/bd8377b9-802a-42a1-aceb-6c41eebd4aab)
-![gmail](https://github.com/user-attachments/assets/dba31ce8-d8fd-4a75-b63d-8ec39fee01c2)
+<img src="https://github.com/user-attachments/assets/bd8377b9-802a-42a1-aceb-6c41eebd4aab" width="250" height="250"/>
+<img src="https://github.com/user-attachments/assets/dba31ce8-d8fd-4a75-b63d-8ec39fee01c2" width="250" height="250"/>
 
 </p>
 
