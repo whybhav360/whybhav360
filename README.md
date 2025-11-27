@@ -78,7 +78,7 @@
 
 ## ⚡ A Dev Meme i love and relate to
 
-https://github.com/user-attachments/assets/e68d9d58-b9bb-42c8-8862-b23fb3ee7425
+[Kotlin Supremacy](https://tenor.com/view/kotlin-java-programmer-meme-average-kotlin-enjoyer-average-java-fan-gif-21761248)
 
 ---
 
