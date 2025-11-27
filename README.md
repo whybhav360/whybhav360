@@ -1,4 +1,4 @@
-<img width="1128" height="609" alt="image" src="https://github.com/user-attachments/assets/1f60dba6-99c9-405d-9b83-7c8748398311" /><!-- Hero Section -->
+<!-- Hero Section -->
 <div align="center">
   
   <!-- Coding GIF -->
