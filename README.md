@@ -29,12 +29,13 @@
 ## 🛠 Tech Stack & Tools
 
 ### 📱 Mobile App Development
-  ![Kotlin Android](https://github.com/user-attachments/assets/24e378cf-e209-40fc-b15f-404ee0164ec3) ![Java logo](https://github.com/user-attachments/assets/3797e31a-0cb3-4ab8-9b25-3ef34cd846a5) ![Android logo](https://github.com/user-attachments/assets/7fe2612b-701c-431a-a92a-a160cbc29f99)
+  ![Kotlin Android](https://github.com/user-attachments/assets/24e378cf-e209-40fc-b15f-404ee0164ec3) ![Java logo](https://github.com/user-attachments/assets/3797e31a-0cb3-4ab8-9b25-3ef34cd846a5)
 
 
 
 ### 🤖 AI / ML & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python logo](https://github.com/user-attachments/assets/ddc09501-48be-445f-9560-3e08850487dc)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -47,7 +48,6 @@
 ### 🧰 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
