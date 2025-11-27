@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats & Activity
 
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav360&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whybhav360&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
