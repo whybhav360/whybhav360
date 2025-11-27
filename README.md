@@ -1,4 +1,4 @@
-<!-- Hero Section -->
+<img width="1128" height="609" alt="image" src="https://github.com/user-attachments/assets/1f60dba6-99c9-405d-9b83-7c8748398311" /><!-- Hero Section -->
 <div align="center">
   
   <!-- Coding GIF -->
@@ -31,8 +31,10 @@
 ### 📱 Mobile App Development
 ![Kotlin Android](https://github.com/user-attachments/assets/24e378cf-e209-40fc-b15f-404ee0164ec3)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+!![Java logo](https://github.com/user-attachments/assets/3797e31a-0cb3-4ab8-9b25-3ef34cd846a5)
+
+![Android logo](https://github.com/user-attachments/assets/7fe2612b-701c-431a-a92a-a160cbc29f99)
+
 
 ### 🤖 AI / ML & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
