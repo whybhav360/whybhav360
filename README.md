@@ -32,21 +32,15 @@
   ![Kotlin Android](https://github.com/user-attachments/assets/24e378cf-e209-40fc-b15f-404ee0164ec3) 
   ![Java logo](https://github.com/user-attachments/assets/636f6019-eb57-46c9-9db8-d65fbe88d6a6)
 
-
-
 ### 🤖 AI / ML & Backend
 ![Python logo](https://github.com/user-attachments/assets/ddc09501-48be-445f-9560-3e08850487dc)
 ![Logo Firebase](https://github.com/user-attachments/assets/07546248-90a3-472c-b633-e36dc766c143)
-
-
-
 
 ### 🧰 Tools & Workflow
 ![VS code logo animation](https://github.com/user-attachments/assets/ad134066-da72-4975-9f98-f6d7b3010ae8)
 ![Android](https://github.com/user-attachments/assets/92f227bc-d825-437a-b14e-841b97a7493c)
 ![GitHub icon](https://github.com/user-attachments/assets/32ee7719-87ba-4ddd-83fe-d05092f7b91a)
 ![Git Logo](https://github.com/user-attachments/assets/6782341d-6031-4384-9bed-9a0c41a84084)
-
 
 ---
 
@@ -62,9 +56,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whybhav360&theme=tokyonight" />
 </div>
-
-
-
 
 ## 🌐 Let’s Connect
 
