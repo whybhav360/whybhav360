@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+folks%2C+I'm+Vaibhav+Madaan+👋;Android+%26+AI+App+Developer+📱🧠;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+folks%2C+I'm+Vaibhav+Madaan+👋;Android+%26+AI+App+Developer+📱🧠;Always+learning%2C+always+building+🚀" />
   
   <!-- Coding GIF -->
   <br/>
@@ -67,11 +67,9 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhav360&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav360&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vaibhav360&theme=github-dark&hide_border=true" />
 </div>
+
 
 ## 🌐 Let’s Connect
 
