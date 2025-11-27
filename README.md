@@ -63,7 +63,11 @@
 
 ## 📊 GitHub Stats & Activity
 
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whybhav360&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whybhav360&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whybhav360&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whybhav360&theme=tokyonight&utcOffset=5.5" />
+</div>
 
 
 
@@ -74,14 +78,8 @@
   <a href="https://www.linkedin.com/in/vaibhav360/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vaibhav.dev.work@gmail.com" target="_blank">
+  <a href="mailto:vaibhavmadaan360@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
