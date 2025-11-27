@@ -2,7 +2,6 @@
 <div align="center">
   
   <!-- Coding GIF -->
-  <br/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif" />
   
 </div>
@@ -65,7 +64,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whybhav360&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whybhav360&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whybhav360&theme=tokyonight&utcOffset=5.5" />
 </div>
 
