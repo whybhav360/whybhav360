@@ -77,8 +77,9 @@
 ---
 
 ## ⚡ A Dev Meme i love and relate to
-https://media1.tenor.com/m/rh87gPA5SfUAAAAC/kotlin-java.gif
-
+ <a href="https://www.linkedin.com/in/vaibhav360/" target="_blank">
+    <img src="https://media1.tenor.com/m/rh87gPA5SfUAAAAC/kotlin-java.gif" />
+  </a>
 ---
 
 <div align="center">
