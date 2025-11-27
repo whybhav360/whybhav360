@@ -1,43 +1,106 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Madaan</h1>
-<h3 align="center">AI & Android Developer | Building cool stuff with Kotlin + AI</h3>
+<!-- Hero Section -->
+<div align="center">
+  
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+folks%2C+I'm+Vaibhav+Madaan+👋;Android+%26+AI+App+Developer+📱🧠;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
+  
+  <!-- Coding GIF -->
+  <br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif" />
+  
+</div>
+
+<!-- Wavy Divider -->
+<div align="center">
+  <svg width="100%" height="80" viewBox="0 0 1200 120" preserveAspectRatio="none">
+    <path d="M0,0 C300,80 900,0 1200,80 L1200,120 L0,120 Z" fill="#0f172a" opacity="0.9"></path>
+  </svg>
+</div>
 
 ---
 
-## 💫 About Me
-🔭 Currently working on **AI-powered apps & Android projects**  
-🤝 Looking for **opportunities & collaborations**  
-🌱 Currently learning **Mobile App Development (Kotlin & Flutter)**  
-💬 Ask me about **SkibidiTTS – AI Voice Fun App**  
+## 🚀 About Me
+
+- 🔭 I’m currently working on **AI-powered Android apps** 
+- 📱 Primary focus: **Android (Kotlin/Java) + AI/ML on-device**
+- 🌱 Currently learning **Flutter & Edge AI optimization**
+- 🤝 Open to collaborations on **Android, AI, and fun side projects**
+- 💬 Ask me about **Android Dev, Kotlin, AI integration**
+- 🎯 Goal: Become a **strong Android + AI Engineer** and ship polished real-world apps
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav360/)
+## 🛠 Tech Stack & Tools
+
+### 📱 Mobile App Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🤖 AI / ML & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🗄 Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20DB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
-## 💻 Tech Stack
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- Another Wave Divider -->
+<div align="center">
+  <svg width="100%" height="80" viewBox="0 0 1200 120" preserveAspectRatio="none">
+    <path d="M0,80 C300,0 900,120 1200,40 L1200,0 L0,0 Z" fill="#020617" opacity="1"></path>
+  </svg>
+</div>
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhav360&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav360&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav360/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vaibhav.dev.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=whybhav360&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=whybhav360&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whybhav360&theme=dark&hide_border=false&layout=compact)
+## ⚡ Random Dev Quote
+
+> _“First, solve the problem. Then, write the code.”_  
+> — John Johnson
 
 ---
 
-## 🚀 Visitors
-[![](https://visitcount.itsvg.in/api?id=whybhav360&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  
+  🔥 <b>Always Learning</b> • 🚀 <b>Building Cool Stuff</b> • 💡 <b>Open to Collaborations</b>
 
----
-
-<!-- Proudly created with ❤️ using GPRM -->
+</div>
