@@ -35,7 +35,7 @@
 
 ### 🤖 AI / ML & Backend
 ![Python logo](https://github.com/user-attachments/assets/ddc09501-48be-445f-9560-3e08850487dc)
-![Logo Fiebase](https://github.com/user-attachments/assets/b2febeed-fe77-4f86-a7b2-30029dd300b5)
+![Google_Firebase_LogotoIcon_Black_V01](https://github.com/user-attachments/assets/525002a7-058b-476a-b95d-51362695baef)
 
 
 ### 🧰 Tools & Workflow
