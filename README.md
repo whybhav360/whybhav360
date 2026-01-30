@@ -17,12 +17,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **AI-powered Android apps** 
-- 📱 Primary focus: **Android (Kotlin/Java) + AI/ML on-device**
-- 🌱 Currently learning **Flutter & Edge AI optimization**
-- 🤝 Open to collaborations on **Android, AI, and fun side projects**
-- 💬 Ask me about **Android Dev, Kotlin, AI integration**
-- 🎯 Goal: Become a **strong Android + AI Engineer** and ship polished real-world apps
+- 🔭 I’m currently working on **AI-powered Mobile apps** 
+- 📱 Primary focus: **Mobile apps (Dart/Flutter + Kotlin/Java) + AI/ML on-device**
+- 🌱 Currently learning **Jetpack Compose & Edge AI optimization**
+- 🤝 Open to collaborations on **Mobile Apps, AI, and fun side projects**
+- 💬 Ask me about **App Dev, Flutter, Kotlin, AI integration**
+- 🎯 Goal: Become a **strong Mobile + AI Engineer** and ship polished real-world apps
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-<!-- Another Wave Divider -->
+<!-- Wave Divider -->
 <div align="center">
   <svg width="100%" height="80" viewBox="0 0 1200 120" preserveAspectRatio="none">
     <path d="M0,80 C300,0 900,120 1200,40 L1200,0 L0,0 Z" fill="#020617" opacity="1"></path>
